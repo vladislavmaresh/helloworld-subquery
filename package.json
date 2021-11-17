@@ -1,7 +1,7 @@
 {
-  "name": "vasilisanikitshina-subquery",
+  "name": "viktordoritsyn-subquery",
   "version": "1.0.0",
-  "description": "Subquery project by vasilisanikitshina",
+  "description": "Subquery project by viktordoritsyn",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
